@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    padding:1rem;
+}
+
+.container h1,p,h3{
+    padding:0.8rem;
+}
+
+.bold{
+    font-weight: 1000;
+}
